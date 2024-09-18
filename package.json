@@ -1,0 +1,15 @@
+{
+  "name": "my-multi-threaded-webserver",
+  "version": "1.0.0",
+  "description": "A simple multi-threaded web server for a project",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": ["html", "css"],
+  "author": "Daryl Zambrana-Feliciano",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "11.2.0"
+  }
+}
